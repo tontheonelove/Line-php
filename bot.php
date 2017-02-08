@@ -18,11 +18,11 @@ if (!is_null($events['events'])) {
 
 			// Build message to reply back
 			$messages = [
-				{"type":"text",
-				 "text":"สวัสดี พี่น้อง"
+				{'type':'text',
+				 'text':'สวัสดี พี่น้อง'
 				},
-				{"type":"text",
-				 "text":"จะให้ฉันช่วยอะไรได้บ้างล่ะ "
+				{'type':'text',
+				 'text':'จะให้ฉันช่วยอะไรได้บ้างล่ะ'
 				}
 			];
 
